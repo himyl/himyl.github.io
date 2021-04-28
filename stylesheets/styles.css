@@ -137,14 +137,14 @@ header li:last-child a {
 }
 
 li{
-  margin-bottom: 5px;
-  line-height: 1.4;
+  margin-bottom: 10px;
+  /* line-height: 1.4; */
 }
 
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color: #5028a1;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -152,7 +152,7 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  color: #5028a1;
 }
 
 header ul a:active {
