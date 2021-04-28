@@ -144,7 +144,7 @@ li{
 header ul a {
   line-height:1;
   font-size:11px;
-  color: #5028a1;
+  color:#999;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -152,7 +152,7 @@ header ul a {
 }
 
 header ul a:hover {
-  color: #5028a1;
+  color:#999;
 }
 
 header ul a:active {
