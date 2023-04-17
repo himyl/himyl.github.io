@@ -4,7 +4,7 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Ashish Sharma
+<h1> Hi, I'm Ashish Sharma </h1>
 
 <div class="columns" markdown="1">
 
