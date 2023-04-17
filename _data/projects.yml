@@ -1,0 +1,17 @@
+- title: Cognitive Reframing of Negative Thoughts through Human-LM Interaction
+  url: https://screening.mhanational.org/changing-thoughts-with-an-ai-assistant/
+  code: 
+  demo: https://screening.mhanational.org/changing-thoughts-with-an-ai-assistant/
+  paper: 
+  image: Cognitive_Reframing.svg
+  description: We study how language models can help people reframe negative thoughts.
+  highlight: 2
+
+- title: Human-AI Collaboration Enables Empathic Conversations
+  url: http://bdata.uw.edu/empathy
+  code: http://bdata.uw.edu/empathy
+  demo: https://www.youtube.com/watch?v=g04GLBU73FI&t=1s&ab_channel=PaulG.AllenSchool
+  paper: https://www.nature.com/articles/s42256-022-00593-2
+  image: Human_AI_Collaboration_Empathy_Nature_MI.png
+  description: We show that human-AI collaboration can empower people to respond more empathically in online peer-to-peer mental health support.
+  highlight: 1

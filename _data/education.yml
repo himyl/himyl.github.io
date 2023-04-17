@@ -1,0 +1,14 @@
+- university: University of Washington
+  years: 2019-Present
+  degree: 
+  location: Seattle, WA, USA
+  description:
+    - PhD Student in Computer Science
+- university: Indian Institute of Technology
+  years: 2013-2018
+  degree: 
+  location: Kharagpur, WB, India
+  awards:
+   - Student-Par Excellence Award
+  description:
+    - Dual Degree in Computer Science (Bachelor and Master of Technology)

@@ -1,0 +1,12 @@
+- title: AI
+  courses:
+    - Speech and Natural Language Processing, Machine Learning, Deep Learning, Artificial Intelligence, Interactive Learning
+- title: Data Mining
+  courses:
+    - Information Retrieval, Scalable Data Mining, Social Computing, Economic and Financial Network Analysis
+- title: Systems
+  courses:
+  - Distributed Systems, Database Management Systems, Cloud Computing
+- title: Misc.
+  courses:
+  - Computational Ethics in NLP, Big and Small Data for Health, Smartphone Computing and Applications, Image Processing, Probability and Statistics, Operations Research

@@ -1,0 +1,7 @@
+<li>
+{% if news.url %}<a href="{{news.url}}">{{ news.message | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+  {% else %}{{ news.message | markdownify | remove: '<p>' | remove: '</p>' }}
+
+  {% endif %}
+  <time datetime="{{ news.date }}">{{ news.date | date: "%b %Y" }}</time>
+</li>

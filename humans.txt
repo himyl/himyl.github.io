@@ -1,0 +1,10 @@
+/* TEAM */
+	Author/Theme: Ashish Sharma
+	Twitter: @sharma_ashish_2
+	From: Seattle, WA
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	IDE: VSCode
+	Software: Jekyll
