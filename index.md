@@ -11,7 +11,7 @@ class: home
 <div class="intro" markdown="1">
 I'm a fourth-year PhD student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where I am advised by [Tim Althoff](http://timalthoff.com/). 
 
-I study <b>how AI can empower humans in real-world tasks</b>. My long-term research goal is to develop AI systems that can support human well-being. Broadly, I'm interested in Natural Language Processing, Human-AI Collaboration, Computational Social Science and Mental Health.
+I study <b>how AI can support human well-being</b>. My long-term research goal is to develop human-centered AI systems that can empower people in real-world tasks. Broadly, I'm interested in Natural Language Processing, Human-AI Collaboration, Computational Social Science and Mental Health.
 
 My research has been recognized with a <b>best paper award</b> from <a href="https://www.youtube.com/watch?v=4my9W24oifs&t=763s">The Web Conference</a> and has been <b>deployed in the real-world</b> by <a href="https://screening.mhanational.org/changing-thoughts-with-an-ai-assistant/">Mental Health America</a>.
 
