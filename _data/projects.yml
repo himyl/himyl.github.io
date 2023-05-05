@@ -2,7 +2,7 @@
   url: https://screening.mhanational.org/changing-thoughts-with-an-ai-assistant/
   code: 
   demo: https://screening.mhanational.org/changing-thoughts-with-an-ai-assistant/
-  paper: 
+  paper: https://arxiv.org/abs/2305.02466
   image: Cognitive_Reframing.svg
   description: We study how language models can help people reframe negative thoughts.
   highlight: 2
