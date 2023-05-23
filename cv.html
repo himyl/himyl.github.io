@@ -108,7 +108,7 @@ To enhance people's ability to understand and communicate large and complex data
 
 {% assign sorted_pubs = site.publications | reverse %}
 
-{% assign types = "Conference|Journal|Demo|Workshop" | split: "|" %}
+{% assign types = "Conference|Journal|Preprint|Demo|Workshop" | split: "|" %}
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
