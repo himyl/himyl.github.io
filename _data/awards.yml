@@ -1,3 +1,8 @@
+- name: ACL 2023 Outstanding Paper Award
+  years: 2023
+  description: "For \"Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction\""
+- name: JP Morgan Chase AI Research PhD Fellowship
+  years: 2023
 - name: WWW Best Paper Award
   years: 2021
   description: "For \"Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach\"  (Top-1 paper out of 1700+ submissions)"
