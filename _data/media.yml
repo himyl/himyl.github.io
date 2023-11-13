@@ -1,3 +1,13 @@
+- website: Allen School News
+  title: Can AI take a joke? Allen School researchers [...]
+  date: Aug 2023
+  url: https://news.cs.washington.edu/2023/08/15/can-ai-take-a-joke-allen-school-researchers-recognized-at-acl-2023-for-tackling-this-and-other-questions-at-the-nexus-of-human-and-machine-understanding/
+  type: news
+- website: Allen School News
+  title: Model researchers -- Allen School's Ashish Sharma [...]
+  date: Aug 2023
+  url: https://news.cs.washington.edu/2023/08/17/model-researchers-allen-schools-gabriel-ilharco-and-ashish-sharma-earn-2023-j-p-morgan-ai-ph-d-fellowships/
+  type: news
 - website: Scientific American
   title: AI Chatbots Could Help Provide Therapy, but Caution Is Needed
   date: June 2023
@@ -12,6 +22,11 @@
   title: Can AI teach you how to communicate with more empathy?
   date: April 2023
   url: https://rightasrain.uwmedicine.org/life/relationships/ai-and-empathy
+  type: news
+- website: Nature Medicine 
+  title: Will ChatGPT transform healthcare?
+  date: March 2023
+  url: https://www.nature.com/articles/s41591-023-02289-5
   type: news
 - website: The Washington Post
   title: We keep trying to make AI therapists. It's not working
