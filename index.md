@@ -11,7 +11,7 @@ class: home
 <div class="intro" markdown="1">
 I'm a fifth-year PhD student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where I am advised by [Tim Althoff](http://timalthoff.com/). 
 
-<b>I'm on the job market!</b> If you think we would be a good match, please reach out.
+<b>I'm on the job market!</b> If you think we would be a good match, please [reach out](mailto:ashshar@cs.washington.edu).
 
 I study <b>how AI can support human well-being</b>. My long-term research goal is to develop human-centered AI systems that can empower people in real-world tasks. Broadly, I'm interested in Natural Language Processing, Human-AI Collaboration, Computational Social Science, and Mental Health. I'm supported by the [JP Morgan Chase AI Research PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023/ashish-sharma).
 
