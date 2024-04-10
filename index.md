@@ -9,7 +9,7 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a fifth-year PhD student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where I am advised by [Tim Althoff](http://timalthoff.com/). 
+I'm a fifth-year PhD candidate in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where I am advised by [Tim Althoff](http://timalthoff.com/). 
 
 <b>I'm on the job market!</b> If you think we would be a good match, please [reach out](mailto:ashshar@cs.washington.edu).
 
