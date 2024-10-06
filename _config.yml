@@ -1,8 +1,8 @@
 # Site settings
 title: Ashish Sharma
-email: ashshar@cs.washington.edu
+email: sharma.ashish@microsoft.com
 description: > # this means to ignore newlines until "baseurl:"
-   Computer Science PhD Student at the University of Washington.
+   Senior Applied Scientist at Microsoft Office of Applied Research 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ash-shar.github.io/" # the base hostname & protocol for your site
 production_url: "https://ash-shar.github.io/"
