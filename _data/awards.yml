@@ -1,26 +1,29 @@
-- name: ACL 2023 Outstanding Paper Award
-  years: 2023
-  description: "For \"Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction\""
-- name: JP Morgan Chase AI Research PhD Fellowship
-  years: 2023
-- name: WWW Best Paper Award
-  years: 2021
-  description: "For \"Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach\"  (Top-1 paper out of 1700+ submissions)"
-- name: Student Par-Excellence Award
-  years: 2019
-  description: Awarded by Department of Computer Science, IIT Kharagpur
-- name: SIGIR Student Travel Grant
-  years: 2019
-  description: For attending CIKM 2019
-- name: COMSNETS Best Academic Demo Award
-  years: 2017
-  description: "For \"CommBox: Utilizing Sensors for Real-Time Cricket Shot Identification & Commentary Generation\""
-- name: S.N. Bose Scholarship
-  years: 2017
-  description: One of the 50 scholars from India
-- name: Student Travel Grant
-  years: 2017
-  description: For attending COMSNETS 2017
-- name: Goralal Syngal Memorial Scholarship
-  years: 2016
-  description: For academic excellence during 2015-2016
+- name: Australian Government Research Training Program Stipend
+  years: 2023-2027
+  description: Funded by the Commonwealth Government Department of Education and Training, the Australian Government Research Training Program Stipends are open to highly ranked research students who demonstrate outstanding academic achievement and research potential.
+# - name: ACL 2023 Outstanding Paper Award
+#   years: 2023
+#   description: "For \"Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction\""
+# - name: JP Morgan Chase AI Research PhD Fellowship
+#   years: 2023
+# - name: WWW Best Paper Award
+#   years: 2021
+#   description: "For \"Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach\"  (Top-1 paper out of 1700+ submissions)"
+# - name: Student Par-Excellence Award
+#   years: 2019
+#   description: Awarded by Department of Computer Science, IIT Kharagpur
+# - name: SIGIR Student Travel Grant
+#   years: 2019
+#   description: For attending CIKM 2019
+# - name: COMSNETS Best Academic Demo Award
+#   years: 2017
+#   description: "For \"CommBox: Utilizing Sensors for Real-Time Cricket Shot Identification & Commentary Generation\""
+# - name: S.N. Bose Scholarship
+#   years: 2017
+#   description: One of the 50 scholars from India
+# - name: Student Travel Grant
+#   years: 2017
+#   description: For attending COMSNETS 2017
+# - name: Goralal Syngal Memorial Scholarship
+#   years: 2016
+#   description: For academic excellence during 2015-2016
