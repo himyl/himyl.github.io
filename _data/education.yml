@@ -1,15 +1,20 @@
-- university: University of Washington
-  years: 2019-2024
+- university: University of Technology Sydney
+  years: 2024-Present
   degree: 
-  location: Seattle, WA, USA
+  location: Sydney, NSW, Australia
   description:
-    - PhD Student in Computer Science
-- university: Indian Institute of Technology
-  years: 2013-2018
+    -PhD Student in Computing Sciences
+- university: University of Technology Sydney
+  years: 2018-2021
   degree: 
-  location: Kharagpur, WB, India
+  location: Sydney, NSW, Australia
+  description:
+    - Master of Research in Computing Sciences
+- university: Chongqing University of Post and Telecommunications
+  years: 2012-2016
+  degree: 
+  location: Chongqing, China
   awards:
-   - Student-Par Excellence Award
+  - First Class Honours
   description:
-    - Master of Technology in Computer Science
-    - Bachelor of Technology in Computer Science
+  - Bachelor of Communication / Marketing
