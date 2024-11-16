@@ -4,7 +4,7 @@ title: "Home"
 class: home
 ---
 
-<h1> Hi, I'm Ashish Sharma </h1>
+<h1> Hi, I'm Mengyao Li </h1>
 
 <div class="columns" markdown="1">
 
@@ -29,8 +29,8 @@ I received my PhD in Computer Science from the University of Washington, advised
 <picture>
   <!-- <source srcset='/images/dominik_berlin.webp' type='image/webp' /> -->
   <img
-    src='/images/ashish-headshot.jpeg'
-    alt='Ashish Sharma'>
+    src='/images/portrait.jpg'
+    alt='Mengyao Li'>
 </picture>
 
 {:.no-list}
